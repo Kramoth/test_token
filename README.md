@@ -5,6 +5,6 @@ Test pour token authentification
 
 Dans un terminal lancer la commande suivante:
 
-'''sh
+```sh
 python hello.py
-'''
+```
